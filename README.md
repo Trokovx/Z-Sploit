@@ -3,4 +3,4 @@ Z-Sploit [Fe, Client]
 
 Script made by Trokov#8965
 
-Copyright. &copy
+Copyright. &copyright
